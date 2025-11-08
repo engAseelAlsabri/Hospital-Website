@@ -40,5 +40,5 @@ The focus was on clean layout, responsive design, and semantic HTML structure.
 
 ## 🧑‍💻 Author
 
-Created by [ASEEL ALSABRI](https://github.com/engAseelAlsabri)
+Created by [ASEEL ALSABRI](https://www.linkedin.com/in/aseelِ-al-sabri)
 
