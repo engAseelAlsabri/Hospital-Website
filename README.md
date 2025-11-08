@@ -22,7 +22,7 @@ The focus was on clean layout, responsive design, and semantic HTML structure.
 - Improve CSS layout and styling techniques
 - Learn responsive design basics
 
-## 📸 Screenshot
+# 📸 Screenshot
 
 <img width="1900" height="825" alt="Screenshot 2025-11-08 051757" src="https://github.com/user-attachments/assets/2f437311-a009-4359-bb63-42edb5df7479" />
 <img width="1900" height="761" alt="Screenshot 2025-11-08 051920" src="https://github.com/user-attachments/assets/18c2f958-dba0-4777-8519-2be1f1f77351" />
